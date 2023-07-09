@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(to right, #a55, #55a);
+}
+#c1{
+    display: block;
+    margin: 20px auto;
+    border: solid;
+    background-color: bisque;
+}
